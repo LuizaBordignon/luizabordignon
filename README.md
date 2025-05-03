@@ -1,4 +1,4 @@
-## Olá, Me chamo Luiza Bordignon!
+## Olá, me chamo Luiza Bordignon!
 
 <div style="display: flex; align-items: center;">
   <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=LuizaBordignon&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
