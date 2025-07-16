@@ -1,11 +1,11 @@
-## Olá, me chamo Luiza Bordignon!
+## Hello, World! I'm Luiza Bordignon!
 
 <div style="display: flex; align-items: center;">
   <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=LuizaBordignon&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaBordignon&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
-## Estou aprendendo:
+## Skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="User-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="User-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
