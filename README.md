@@ -1,7 +1,5 @@
 ## Hello, World! I'm Luiza Bordignon!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizabordignon)](https://github.com/luizabordignon/github-readme-stats)
-
 ## Skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="User-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
