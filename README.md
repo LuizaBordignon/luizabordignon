@@ -2,7 +2,7 @@
 
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-I’m Luiza Bordignon!
+I’m Luiza Bordignon, developer Backend!
 
 ### Languages:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
