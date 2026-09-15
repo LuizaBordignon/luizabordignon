@@ -3,8 +3,8 @@
 ### Backend Developer
 
 * 🔭 Atualmente estou me aprofundando em desenvolvimento backend e criando aplicações full-stack.
-* 🌱 Atualmente estou estudando **TypeScript e Workflows de IA**.
-* 📫 Como entrar em contato: **[luizabordignonmoro@gmail.com](mailto:luizabordignonmoro@gmail.com)**
+* 🌱 Estou estudando **TypeScript e Workflows de IA**.
+* 📫 Contato: **[luizabordignonmoro@gmail.com](mailto:luizabordignonmoro@gmail.com)**
 
 ---
 
