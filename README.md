@@ -35,6 +35,16 @@
 ### 🤖 AI
 
 <p align="left">
-  <img src="./assets/claude.svg" width="40" height="40" alt="Claude"/>
-  <img src="./assets/claude-code.svg" width="40" height="40" alt="Claude Code"/>
+  <img
+    src="https://cdn.simpleicons.org/claude/D97757"
+    width="40"
+    height="40"
+    alt="Claude"
+  />
+  <img
+    src="https://cdn.simpleicons.org/claudecode/D97757"
+    width="40"
+    height="40"
+    alt="Claude Code"
+  />
 </p>
