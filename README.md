@@ -1,6 +1,6 @@
 # Hi 👋, I'm Luiza Bordignon
 
-### Backend Developer
+### FullStack Developer
 
 * 🔭 Atualmente estou me aprofundando em desenvolvimento backend e criando aplicações full-stack.
 * 🌱 Estou estudando **TypeScript e Workflows de IA**.
